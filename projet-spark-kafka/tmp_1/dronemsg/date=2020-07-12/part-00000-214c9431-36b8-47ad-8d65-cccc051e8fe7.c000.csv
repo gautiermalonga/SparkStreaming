@@ -1,0 +1,5 @@
+timestamp,IdRegion,IdDrone,CurrentDate,CurrentTime,x,y,RegionState,StreetCode1,StreetCode2,StreetCode3,HouseNumber,StreetName,Violation,IdPhoto,Plaque,PlateType,VehicleBodyType,VehicleMake,VehicleColor,ViolationCode,ViolationDescription
+2020-07-12T04:07:23.624+02:00,6,62,2020-07-12,04:07:23,43.16953,-77.20507,NY,19690,23800,23850,15826,103rd St,0,fc7974e1-1547-4088-9db1-6fea7ca197dc,AHD6582,PAS,SUBN,INFIN,GY,72,null
+2020-07-12T04:07:23.807+02:00,7,74,2020-07-12,04:07:23,41.17554,-79.074356,NY,14980,75130,50830,511,Bainbridge St,"","","","","","","","",""
+2020-07-12T04:07:24.204+02:00,4,43,2020-07-12,04:07:23,43.91772,-75.33724,NY,8980,6680,6780,1683,48th St,0,c8809215-7b4c-45b4-bd58-cd51c617cb00,GCA6317,PAS,SUBN,HYUND,MR,96,null
+2020-07-12T04:07:24.339+02:00,2,21,2020-07-12,04:07:24,43.361374,-73.839935,NY,37930,26630,55330,286,E 93rd St,"","","","","","","","",""

@@ -1,0 +1,2 @@
+timestamp,IdRegion,IdDrone,CurrentDate,CurrentTime,x,y,RegionState,StreetCode1,StreetCode2,StreetCode3,HouseNumber,StreetName,Violation,IdPhoto,Plaque,PlateType,VehicleBodyType,VehicleMake,VehicleColor,ViolationCode,ViolationDescription
+2020-07-12T04:05:43.696+02:00,2,27,2020-07-12,04:05:43,43.66272,-73.88125,NY,14530,90680,0,null,AVE S,0,0fee67fa-934b-4183-ac01-e4c5f4ab5d9d,HRU6911,PAS,VAN,CHEVR,WHITE,27,null

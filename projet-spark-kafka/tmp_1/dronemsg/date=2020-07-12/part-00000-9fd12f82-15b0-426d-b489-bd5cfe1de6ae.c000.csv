@@ -1,0 +1,4 @@
+timestamp,IdRegion,IdDrone,CurrentDate,CurrentTime,x,y,RegionState,StreetCode1,StreetCode2,StreetCode3,HouseNumber,StreetName,Violation,IdPhoto,Plaque,PlateType,VehicleBodyType,VehicleMake,VehicleColor,ViolationCode,ViolationDescription
+2020-07-12T04:05:28.798+02:00,7,71,2020-07-12,04:05:28,41.15599,-79.85273,NY,25390,17870,17890,345,Madison Ave,"","","","","","","","",""
+2020-07-12T04:05:28.948+02:00,6,62,2020-07-12,04:05:28,43.532043,-77.18233,NY,51090,24840,24890,175-09,Jamaica Ave,"","","","","","","","",""
+2020-07-12T04:05:29.084+02:00,4,42,2020-07-12,04:05:29,43.371902,-75.66131,NY,60530,68430,68130,860,Metropolitan Ave,"","","","","","","","",""

@@ -1,0 +1,5 @@
+timestamp,IdRegion,IdDrone,CurrentDate,CurrentTime,x,y,RegionState,StreetCode1,StreetCode2,StreetCode3,HouseNumber,StreetName,Violation,IdPhoto,Plaque,PlateType,VehicleBodyType,VehicleMake,VehicleColor,ViolationCode,ViolationDescription
+2020-07-12T04:06:58.907+02:00,4,41,2020-07-12,04:06:58,43.91772,-75.33724,NY,8980,6680,6780,1683,48th St,"","","","","","","","",""
+2020-07-12T04:06:59.081+02:00,7,71,2020-07-12,04:06:59,41.73634,-79.46477,NY,81330,51030,20530,370,State St,"","","","","","","","",""
+2020-07-12T04:06:59.191+02:00,7,77,2020-07-12,04:06:59,41.413406,-79.52721,NY,11620,17720,28860,4460,Baychester Ave,"","","","","","","","",""
+2020-07-12T04:06:59.703+02:00,2,24,2020-07-12,04:06:59,43.45287,-73.441444,NY,34570,13610,10610,147,W 40th St,0,a87b81c5-7743-4ff3-8fd1-16bad007ca14,HKK2469,PAS,4DSD,HONDA,GY,35,35-Selling/Offer Merchandise

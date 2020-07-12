@@ -1,0 +1,6 @@
+timestamp,IdRegion,IdDrone,CurrentDate,CurrentTime,x,y,RegionState,StreetCode1,StreetCode2,StreetCode3,HouseNumber,StreetName,Violation,IdPhoto,Plaque,PlateType,VehicleBodyType,VehicleMake,VehicleColor,ViolationCode,ViolationDescription
+2020-07-12T04:06:32.936+02:00,4,43,2020-07-12,04:06:32,43.46519,-75.552475,NY,36630,24690,10610,103-105,W 143 ST,0,4291f38a-bc70-4b23-ada5-02a4271bd4c2,GMT8300,PAS,4DSD,AUDI,GY,68,68-Not Pkg. Comp. w Psted Sign
+2020-07-12T04:06:33.091+02:00,3,35,2020-07-12,04:06:33,41.13678,-75.33113,NY,18770,24890,10210,156,E 89th St,"","","","","","","","",""
+2020-07-12T04:06:33.282+02:00,2,27,2020-07-12,04:06:33,43.655354,-73.00781,NY,21790,12670,97510,11,Greenwich St,"","","","","","","","",""
+2020-07-12T04:06:33.423+02:00,1,14,2020-07-12,04:06:33,41.972,-73.36219,NY,27330,73120,11420,496,E 189th St,"","","","","","","","",""
+2020-07-12T04:06:33.562+02:00,5,52,2020-07-12,04:06:33,41.154934,-77.99088,NY,23170,50620,27250,245-43,149 AVE,"","","","","","","","",""

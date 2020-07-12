@@ -1,0 +1,5 @@
+timestamp,IdRegion,IdDrone,CurrentDate,CurrentTime,x,y,RegionState,StreetCode1,StreetCode2,StreetCode3,HouseNumber,StreetName,Violation,IdPhoto,Plaque,PlateType,VehicleBodyType,VehicleMake,VehicleColor,ViolationCode,ViolationDescription
+2020-07-12T04:06:39.541+02:00,4,45,2020-07-12,04:06:39,43.53972,-75.81852,NY,13610,37610,22990,4530,BROADWAY,0,f9dbdd2d-790c-49e3-a037-8edbaabf524e,GVA8533,PAS,SUBN,CHEVR,GY,9,null
+2020-07-12T04:06:39.847+02:00,4,44,2020-07-12,04:06:39,43.119892,-75.301125,NY,50150,49490,38590,87-25,Home Lawn St,0,9ca3ed03-267e-4e8d-ad39-7171371c9228,GRT3753,PAS,4DSD,TOYOT,GY,48,48-Bike Lane
+2020-07-12T04:06:39.994+02:00,2,26,2020-07-12,04:06:39,43.319824,-73.96076,NY,0,0,0,S,Clinton Ave,"","","","","","","","",""
+2020-07-12T04:06:40.179+02:00,3,34,2020-07-12,04:06:40,41.213596,-75.485794,NY,49630,30230,0,null,HICKS ST,"","","","","","","","",""

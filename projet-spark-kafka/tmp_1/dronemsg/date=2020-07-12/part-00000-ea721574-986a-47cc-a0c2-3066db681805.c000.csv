@@ -1,0 +1,6 @@
+timestamp,IdRegion,IdDrone,CurrentDate,CurrentTime,x,y,RegionState,StreetCode1,StreetCode2,StreetCode3,HouseNumber,StreetName,Violation,IdPhoto,Plaque,PlateType,VehicleBodyType,VehicleMake,VehicleColor,ViolationCode,ViolationDescription
+2020-07-12T04:05:39.012+02:00,2,23,2020-07-12,04:05:38,43.49893,-73.001114,NY,0,0,0,109-13,127th St,0,ac9c7377-d71b-4763-8dc7-3a389d21a2da,BAS2568,PAS,4DSD,SATUR,TN,55,55-Tunnel/Elevated Roadway
+2020-07-12T04:05:39.162+02:00,6,67,2020-07-12,04:05:39,43.58488,-77.40263,NY,58730,59530,42730,956,Marcy Ave,"","","","","","","","",""
+2020-07-12T04:05:39.273+02:00,1,15,2020-07-12,04:05:39,41.572495,-73.40428,NY,11420,26940,29620,1869,BATHGATE AVE,"","","","","","","","",""
+2020-07-12T04:05:39.416+02:00,1,15,2020-07-12,04:05:39,41.879448,-73.56615,NY,86630,26230,77930,907,UTICA AVE,"","","","","","","","",""
+2020-07-12T04:05:39.567+02:00,2,25,2020-07-12,04:05:39,43.50595,-73.03775,NY,62200,32590,32740,8200,SHORE FRONT PKWY,"","","","","","","","",""

@@ -1,0 +1,5 @@
+timestamp,IdRegion,IdDrone,CurrentDate,CurrentTime,x,y,RegionState,StreetCode1,StreetCode2,StreetCode3,HouseNumber,StreetName,Violation,IdPhoto,Plaque,PlateType,VehicleBodyType,VehicleMake,VehicleColor,ViolationCode,ViolationDescription
+2020-07-12T04:05:55.139+02:00,5,51,2020-07-12,04:05:55,41.69147,-77.46984,NY,8990,19740,20190,104-41,38th Ave,"","","","","","","","",""
+2020-07-12T04:05:55.255+02:00,3,36,2020-07-12,04:05:55,41.753162,-75.825386,NY,6280,84130,9730,6216,12th Ave,"","","","","","","","",""
+2020-07-12T04:05:55.408+02:00,6,62,2020-07-12,04:05:55,43.30212,-77.545746,NY,35580,12330,19630,170,E 17TH,"","","","","","","","",""
+2020-07-12T04:05:55.571+02:00,1,17,2020-07-12,04:05:55,41.97764,-73.45839,NY,0,0,0,S,W 140th St,"","","","","","","","",""

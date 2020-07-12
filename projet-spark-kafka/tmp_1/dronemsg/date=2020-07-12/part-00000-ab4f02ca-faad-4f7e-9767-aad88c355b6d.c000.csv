@@ -1,0 +1,5 @@
+timestamp,IdRegion,IdDrone,CurrentDate,CurrentTime,x,y,RegionState,StreetCode1,StreetCode2,StreetCode3,HouseNumber,StreetName,Violation,IdPhoto,Plaque,PlateType,VehicleBodyType,VehicleMake,VehicleColor,ViolationCode,ViolationDescription
+2020-07-12T04:05:32.624+02:00,1,11,2020-07-12,04:05:32,41.951427,-73.72924,NY,38950,0,0,E,Elm Pl,"","","","","","","","",""
+2020-07-12T04:05:32.754+02:00,1,12,2020-07-12,04:05:32,41.584595,-73.78567,NY,81830,60330,83630,2943,Stillwell Ave,"","","","","","","","",""
+2020-07-12T04:05:32.860+02:00,6,64,2020-07-12,04:05:32,43.260796,-77.99374,NY,0,0,0,41-43,Benham St,"","","","","","","","",""
+2020-07-12T04:05:33.195+02:00,5,54,2020-07-12,04:05:32,41.66714,-77.78755,NY,10210,18570,18590,1394,3rd Ave,0,22a44c1f-19f5-4ebc-95d1-273d41fa8fb5,GXL2827,PAS,SUBN,CHEVR,GY,70,70A-Reg. Sticker Expired (NYS)

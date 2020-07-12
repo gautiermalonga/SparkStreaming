@@ -1,0 +1,5 @@
+timestamp,IdRegion,IdDrone,CurrentDate,CurrentTime,x,y,RegionState,StreetCode1,StreetCode2,StreetCode3,HouseNumber,StreetName,Violation,IdPhoto,Plaque,PlateType,VehicleBodyType,VehicleMake,VehicleColor,ViolationCode,ViolationDescription
+2020-07-12T04:07:27.949+02:00,3,31,2020-07-12,04:07:27,41.99503,-75.83221,NY,24970,17790,18040,88-19,178th St,"","","","","","","","",""
+2020-07-12T04:07:28.084+02:00,3,34,2020-07-12,04:07:28,41.2923,-75.74053,NY,24890,18970,18990,1569,Lexington Ave,"","","","","","","","",""
+2020-07-12T04:07:28.250+02:00,1,17,2020-07-12,04:07:28,41.972,-73.36219,NY,27330,73120,11420,496,E 189th St,"","","","","","","","",""
+2020-07-12T04:07:28.762+02:00,5,51,2020-07-12,04:07:28,41.033703,-77.0973,NY,53790,23700,23790,156-01,Liberty Ave,0,61bb941b-e22d-4127-b5c1-a39b4d68f7fc,FCX6756,PAS,SUBN,JEEP,BK,9,null

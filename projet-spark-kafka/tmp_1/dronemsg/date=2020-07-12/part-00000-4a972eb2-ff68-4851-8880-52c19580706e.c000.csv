@@ -1,0 +1,5 @@
+timestamp,IdRegion,IdDrone,CurrentDate,CurrentTime,x,y,RegionState,StreetCode1,StreetCode2,StreetCode3,HouseNumber,StreetName,Violation,IdPhoto,Plaque,PlateType,VehicleBodyType,VehicleMake,VehicleColor,ViolationCode,ViolationDescription
+2020-07-12T04:05:25.071+02:00,6,65,2020-07-12,04:05:25,43.796852,-77.27588,NY,67030,40430,48230,1177,Nostrand Ave,"","","","","","","","",""
+2020-07-12T04:05:25.224+02:00,2,26,2020-07-12,04:05:25,43.319824,-73.96076,NY,0,0,0,S,Clinton Ave,"","","","","","","","",""
+2020-07-12T04:05:25.385+02:00,3,35,2020-07-12,04:05:25,41.363644,-75.76794,NY,67530,14330,14380,1996,OCEAN AVE,"","","","","","","","",""
+2020-07-12T04:05:25.557+02:00,3,32,2020-07-12,04:05:25,41.2923,-75.74053,NY,24890,18970,18990,1569,Lexington Ave,"","","","","","","","",""

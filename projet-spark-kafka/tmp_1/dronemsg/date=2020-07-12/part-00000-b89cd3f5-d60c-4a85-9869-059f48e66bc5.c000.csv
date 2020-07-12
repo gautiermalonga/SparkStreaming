@@ -1,0 +1,4 @@
+timestamp,IdRegion,IdDrone,CurrentDate,CurrentTime,x,y,RegionState,StreetCode1,StreetCode2,StreetCode3,HouseNumber,StreetName,Violation,IdPhoto,Plaque,PlateType,VehicleBodyType,VehicleMake,VehicleColor,ViolationCode,ViolationDescription
+2020-07-12T04:05:58.774+02:00,5,56,2020-07-12,04:05:58,41.97286,-77.47715,NY,77850,40020,76950,2939,Wilkinson Ave,"","","","","","","","",""
+2020-07-12T04:05:59.187+02:00,1,12,2020-07-12,04:05:58,41.951427,-73.72924,NY,38950,0,0,E,Elm Pl,0,740377f6-4a2f-4aab-98c3-09fd7095e554,GZK3143,PAS,SUBN,AUDI,BK,96,null
+2020-07-12T04:05:59.351+02:00,3,34,2020-07-12,04:05:59,41.99503,-75.83221,NY,24970,17790,18040,88-19,178th St,"","","","","","","","",""

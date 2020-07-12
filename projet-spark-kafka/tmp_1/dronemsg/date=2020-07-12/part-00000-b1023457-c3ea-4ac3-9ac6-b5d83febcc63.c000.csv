@@ -1,0 +1,5 @@
+timestamp,IdRegion,IdDrone,CurrentDate,CurrentTime,x,y,RegionState,StreetCode1,StreetCode2,StreetCode3,HouseNumber,StreetName,Violation,IdPhoto,Plaque,PlateType,VehicleBodyType,VehicleMake,VehicleColor,ViolationCode,ViolationDescription
+2020-07-12T04:05:25.728+02:00,1,16,2020-07-12,04:05:25,41.241913,-73.2428,NY,16440,41700,16040,76 08,79 PLACE,"","","","","","","","",""
+2020-07-12T04:05:25.900+02:00,4,47,2020-07-12,04:05:25,43.493057,-75.23407,NY,10910,34790,34810,772,9th Ave,"","","","","","","","",""
+2020-07-12T04:05:26.057+02:00,3,33,2020-07-12,04:05:26,41.37651,-75.72055,NY,27225,15840,61950,76-22A,249th St,"","","","","","","","",""
+2020-07-12T04:05:26.286+02:00,6,66,2020-07-12,04:05:26,43.921852,-77.289894,NY,10810,34190,34210,230,8th Ave,"","","","","","","","",""

@@ -1,0 +1,6 @@
+timestamp,IdRegion,IdDrone,CurrentDate,CurrentTime,x,y,RegionState,StreetCode1,StreetCode2,StreetCode3,HouseNumber,StreetName,Violation,IdPhoto,Plaque,PlateType,VehicleBodyType,VehicleMake,VehicleColor,ViolationCode,ViolationDescription
+2020-07-12T04:06:25.625+02:00,4,44,2020-07-12,04:06:25,43.5327,-75.084076,NY,70820,64820,46550,3141,Valhalla Dr,0,96057a52-ed6f-4309-aee9-4f68bab521c9,T650228C,OMT,4DSD,TOYOT,BK,23,23-No Parking (taxi stand)
+2020-07-12T04:06:25.755+02:00,4,46,2020-07-12,04:06:25,43.371902,-75.66131,NY,60530,68430,68130,860,Metropolitan Ave,"","","","","","","","",""
+2020-07-12T04:06:25.898+02:00,4,41,2020-07-12,04:06:25,43.600063,-75.56084,NY,27530,73220,53830,104,Clinton St,"","","","","","","","",""
+2020-07-12T04:06:26.077+02:00,2,25,2020-07-12,04:06:26,43.429996,-73.28344,NY,10210,19350,19370,2212,3rd Ave,"","","","","","","","",""
+2020-07-12T04:06:26.240+02:00,5,55,2020-07-12,04:06:26,41.033703,-77.0973,NY,53790,23700,23790,156-01,Liberty Ave,"","","","","","","","",""

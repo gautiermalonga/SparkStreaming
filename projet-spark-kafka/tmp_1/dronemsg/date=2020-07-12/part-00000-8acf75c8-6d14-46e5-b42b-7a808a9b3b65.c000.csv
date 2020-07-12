@@ -1,0 +1,5 @@
+timestamp,IdRegion,IdDrone,CurrentDate,CurrentTime,x,y,RegionState,StreetCode1,StreetCode2,StreetCode3,HouseNumber,StreetName,Violation,IdPhoto,Plaque,PlateType,VehicleBodyType,VehicleMake,VehicleColor,ViolationCode,ViolationDescription
+2020-07-12T04:05:46.368+02:00,1,17,2020-07-12,04:05:46,41.951427,-73.72924,NY,38950,0,0,E,Elm Pl,"","","","","","","","",""
+2020-07-12T04:05:46.495+02:00,2,25,2020-07-12,04:05:46,43.773342,-73.02493,NY,5880,9330,9380,5518,8th Ave,"","","","","","","","",""
+2020-07-12T04:05:46.615+02:00,3,34,2020-07-12,04:05:46,41.99503,-75.83221,NY,24970,17790,18040,88-19,178th St,"","","","","","","","",""
+2020-07-12T04:05:46.963+02:00,4,44,2020-07-12,04:05:46,43.493057,-75.23407,NY,10910,34790,34810,772,9th Ave,0,72fd4cd6-dcd3-4e5f-8c58-2fa2026f35f0,GRJ8214,PAS,4DSD,ME/BE,BK,82,82-Unaltered Commerc Vehicle

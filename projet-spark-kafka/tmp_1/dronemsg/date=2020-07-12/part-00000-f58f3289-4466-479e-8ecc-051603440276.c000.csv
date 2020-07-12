@@ -1,0 +1,5 @@
+timestamp,IdRegion,IdDrone,CurrentDate,CurrentTime,x,y,RegionState,StreetCode1,StreetCode2,StreetCode3,HouseNumber,StreetName,Violation,IdPhoto,Plaque,PlateType,VehicleBodyType,VehicleMake,VehicleColor,ViolationCode,ViolationDescription
+2020-07-12T04:06:11.553+02:00,5,54,2020-07-12,04:06:11,41.033703,-77.0973,NY,53790,23700,23790,156-01,Liberty Ave,0,691be3c6-8f0e-476e-9a90-fd9d6e514785,61473JX,COM,4DSD,NISSA,WH,82,82-Unaltered Commerc Vehicle
+2020-07-12T04:06:11.698+02:00,1,14,2020-07-12,04:06:11,41.572495,-73.40428,NY,11420,26940,29620,1869,BATHGATE AVE,"","","","","","","","",""
+2020-07-12T04:06:11.851+02:00,1,12,2020-07-12,04:06:11,41.837868,-73.153656,NY,73120,27030,27060,2061,Washington Ave,"","","","","","","","",""
+2020-07-12T04:06:12.026+02:00,1,13,2020-07-12,04:06:12,41.618206,-73.64031,NY,88430,0,0,N,Veronica Pl,"","","","","","","","",""

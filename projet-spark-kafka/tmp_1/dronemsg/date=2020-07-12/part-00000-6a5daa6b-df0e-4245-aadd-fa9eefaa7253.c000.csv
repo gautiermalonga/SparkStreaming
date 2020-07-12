@@ -1,0 +1,6 @@
+timestamp,IdRegion,IdDrone,CurrentDate,CurrentTime,x,y,RegionState,StreetCode1,StreetCode2,StreetCode3,HouseNumber,StreetName,Violation,IdPhoto,Plaque,PlateType,VehicleBodyType,VehicleMake,VehicleColor,ViolationCode,ViolationDescription
+2020-07-12T04:05:57.341+02:00,7,76,2020-07-12,04:05:57,41.175938,-79.19657,NY,33730,5430,5580,361,Douglass St,0,c5a25c36-83b0-4ba6-96bc-f60447b4cbcf,HCU4067,PAS,4DSD,ME/BE,BK,36,PHTO SCHOOL ZN SPEED VIOLATION
+2020-07-12T04:05:57.472+02:00,7,71,2020-07-12,04:05:57,41.576843,-79.79493,NY,17670,0,0,N,E 34th St,"","","","","","","","",""
+2020-07-12T04:05:57.595+02:00,5,57,2020-07-12,04:05:57,41.90192,-77.99007,NY,48830,30230,68330,62,HENRY ST,"","","","","","","","",""
+2020-07-12T04:05:57.754+02:00,3,34,2020-07-12,04:05:57,41.43547,-75.77323,NY,30490,30590,11810,31,Sherman Ave,"","","","","","","","",""
+2020-07-12T04:05:57.942+02:00,1,11,2020-07-12,04:05:57,41.725018,-73.402336,NY,65020,26670,40520,1136,Simpson St,"","","","","","","","",""

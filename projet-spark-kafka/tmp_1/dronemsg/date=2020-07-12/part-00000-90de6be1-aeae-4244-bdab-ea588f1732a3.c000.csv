@@ -1,0 +1,5 @@
+timestamp,IdRegion,IdDrone,CurrentDate,CurrentTime,x,y,RegionState,StreetCode1,StreetCode2,StreetCode3,HouseNumber,StreetName,Violation,IdPhoto,Plaque,PlateType,VehicleBodyType,VehicleMake,VehicleColor,ViolationCode,ViolationDescription
+2020-07-12T04:05:50.273+02:00,3,33,2020-07-12,04:05:50,41.236916,-75.00963,NY,0,0,0,687,Morris Park Ave,"","","","","","","","",""
+2020-07-12T04:05:50.422+02:00,3,31,2020-07-12,04:05:50,41.99503,-75.83221,NY,24970,17790,18040,88-19,178th St,"","","","","","","","",""
+2020-07-12T04:05:50.830+02:00,3,33,2020-07-12,04:05:50,41.881485,-75.41801,NY,0,0,0,1505,E 15th St,0,72557ad3-16c0-4e94-9142-a0af4d5a8a4c,EDS9351,PAS,SUBN,CHRYS,BL,30,30-No stopping/standing
+2020-07-12T04:05:50.973+02:00,4,41,2020-07-12,04:05:50,43.53972,-75.81852,NY,13610,37610,22990,4530,BROADWAY,"","","","","","","","",""

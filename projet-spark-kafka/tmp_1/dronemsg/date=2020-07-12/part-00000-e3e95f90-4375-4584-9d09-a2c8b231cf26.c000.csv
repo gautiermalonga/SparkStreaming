@@ -1,0 +1,5 @@
+timestamp,IdRegion,IdDrone,CurrentDate,CurrentTime,x,y,RegionState,StreetCode1,StreetCode2,StreetCode3,HouseNumber,StreetName,Violation,IdPhoto,Plaque,PlateType,VehicleBodyType,VehicleMake,VehicleColor,ViolationCode,ViolationDescription
+2020-07-12T04:05:28.123+02:00,7,73,2020-07-12,04:05:28,41.576843,-79.79493,NY,17670,0,0,N,E 34th St,"","","","","","","","",""
+2020-07-12T04:05:28.261+02:00,6,66,2020-07-12,04:05:28,43.82074,-77.976036,NY,5580,10530,10580,7909,5th Ave,"","","","","","","","",""
+2020-07-12T04:05:28.397+02:00,3,37,2020-07-12,04:05:28,41.83278,-75.59003,NY,10140,6740,7040,21-25,45th Ave,"","","","","","","","",""
+2020-07-12T04:05:28.559+02:00,2,26,2020-07-12,04:05:28,43.66272,-73.88125,NY,14530,90680,0,null,AVE S,"","","","","","","","",""

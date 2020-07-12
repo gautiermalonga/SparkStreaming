@@ -1,0 +1,5 @@
+timestamp,IdRegion,IdDrone,CurrentDate,CurrentTime,x,y,RegionState,StreetCode1,StreetCode2,StreetCode3,HouseNumber,StreetName,Violation,IdPhoto,Plaque,PlateType,VehicleBodyType,VehicleMake,VehicleColor,ViolationCode,ViolationDescription
+2020-07-12T04:06:22.297+02:00,1,11,2020-07-12,04:06:22,41.21472,-73.95081,NY,8690,5640,5690,10-13,36 AVE,"","","","","","","","",""
+2020-07-12T04:06:22.429+02:00,3,37,2020-07-12,04:06:22,41.880714,-75.50487,NY,60730,0,0,E,Middleton St,"","","","","","","","",""
+2020-07-12T04:06:22.569+02:00,4,42,2020-07-12,04:06:22,43.253483,-75.87681,NY,11390,8190,57790,32-48,54 ST,"","","","","","","","",""
+2020-07-12T04:06:22.722+02:00,2,27,2020-07-12,04:06:22,43.773342,-73.02493,NY,5880,9330,9380,5518,8th Ave,"","","","","","","","",""

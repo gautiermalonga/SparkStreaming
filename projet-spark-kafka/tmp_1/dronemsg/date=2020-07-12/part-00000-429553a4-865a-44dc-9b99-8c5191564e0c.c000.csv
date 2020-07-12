@@ -1,0 +1,6 @@
+timestamp,IdRegion,IdDrone,CurrentDate,CurrentTime,x,y,RegionState,StreetCode1,StreetCode2,StreetCode3,HouseNumber,StreetName,Violation,IdPhoto,Plaque,PlateType,VehicleBodyType,VehicleMake,VehicleColor,ViolationCode,ViolationDescription
+2020-07-12T04:06:35.228+02:00,4,44,2020-07-12,04:06:35,43.449623,-75.14106,NY,0,0,0,N,46th Ave,"","","","","","","","",""
+2020-07-12T04:06:35.607+02:00,4,45,2020-07-12,04:06:35,43.449623,-75.14106,NY,0,0,0,N,46th Ave,0,d90b2d6e-f947-4298-848e-c7447ec2ba2f,HFF7734,PAS,SUBN,FORD,GR,21,null
+2020-07-12T04:06:35.753+02:00,2,26,2020-07-12,04:06:35,43.764164,-73.41271,NY,52930,93250,42730,387,Jay St,"","","","","","","","",""
+2020-07-12T04:06:35.883+02:00,4,47,2020-07-12,04:06:35,43.449623,-75.14106,NY,0,0,0,N,46th Ave,"","","","","","","","",""
+2020-07-12T04:06:36.030+02:00,2,21,2020-07-12,04:06:36,43.66272,-73.88125,NY,14530,90680,0,null,AVE S,"","","","","","","","",""

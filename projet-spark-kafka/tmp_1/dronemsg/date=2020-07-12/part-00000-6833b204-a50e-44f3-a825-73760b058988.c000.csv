@@ -1,0 +1,2 @@
+timestamp,IdRegion,IdDrone,CurrentDate,CurrentTime,x,y,RegionState,StreetCode1,StreetCode2,StreetCode3,HouseNumber,StreetName,Violation,IdPhoto,Plaque,PlateType,VehicleBodyType,VehicleMake,VehicleColor,ViolationCode,ViolationDescription
+2020-07-12T04:05:24.056+02:00,2,26,2020-07-12,04:05:24,43.351345,-73.97551,NY,37390,11710,12010,515,W 182nd St,"","","","","","","","",""

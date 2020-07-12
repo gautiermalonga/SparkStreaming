@@ -1,0 +1,4 @@
+timestamp,IdRegion,IdDrone,CurrentDate,CurrentTime,x,y,RegionState,StreetCode1,StreetCode2,StreetCode3,HouseNumber,StreetName,Violation,IdPhoto,Plaque,PlateType,VehicleBodyType,VehicleMake,VehicleColor,ViolationCode,ViolationDescription
+2020-07-12T04:06:32.018+02:00,4,41,2020-07-12,04:06:32,43.57823,-75.90359,NY,29220,40404,40404,2486,E Fordham Rd,"","","","","","","","",""
+2020-07-12T04:06:32.185+02:00,2,21,2020-07-12,04:06:32,43.319824,-73.96076,NY,0,0,0,S,Clinton Ave,"","","","","","","","",""
+2020-07-12T04:06:32.313+02:00,1,12,2020-07-12,04:06:32,41.362175,-73.66265,NY,5580,9230,9280,5314,5th Ave,"","","","","","","","",""

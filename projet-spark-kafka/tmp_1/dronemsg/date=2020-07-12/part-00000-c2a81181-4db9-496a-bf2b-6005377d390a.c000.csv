@@ -1,6 +1,0 @@
-timestamp,IdRegion,IdDrone,CurrentDate,CurrentTime,x,y,RegionState,StreetCode1,StreetCode2,StreetCode3,HouseNumber,StreetName,Violation,IdPhoto,Plaque,PlateType,VehicleBodyType,VehicleMake,VehicleColor,ViolationCode,ViolationDescription
-2020-07-12T04:05:29.580+02:00,4,46,2020-07-12,04:05:29,43.346825,-75.849014,NY,26400,21520,50320,376,E 158th St,0,4f54b74f-0cf7-4747-8268-d1187e33d0b2,HLY3324,PAS,SUBN,NISSA,WH,72,null
-2020-07-12T04:05:29.777+02:00,6,61,2020-07-12,04:05:29,43.985195,-77.08556,NY,35290,11710,13610,205,W 76th St,"","","","","","","","",""
-2020-07-12T04:05:29.912+02:00,3,32,2020-07-12,04:05:29,41.2923,-75.74053,NY,24890,18970,18990,1569,Lexington Ave,"","","","","","","","",""
-2020-07-12T04:05:30.071+02:00,1,15,2020-07-12,04:05:30,41.312283,-73.25305,NY,6780,10080,10180,7113,17th Ave,"","","","","","","","",""
-2020-07-12T04:05:30.226+02:00,5,56,2020-07-12,04:05:30,41.97286,-77.47715,NY,77850,40020,76950,2939,Wilkinson Ave,"","","","","","","","",""

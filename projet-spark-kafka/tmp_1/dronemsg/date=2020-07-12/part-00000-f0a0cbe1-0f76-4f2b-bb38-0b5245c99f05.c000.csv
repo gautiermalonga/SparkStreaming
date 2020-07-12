@@ -1,5 +1,0 @@
-timestamp,IdRegion,IdDrone,CurrentDate,CurrentTime,x,y,RegionState,StreetCode1,StreetCode2,StreetCode3,HouseNumber,StreetName,Violation,IdPhoto,Plaque,PlateType,VehicleBodyType,VehicleMake,VehicleColor,ViolationCode,ViolationDescription
-2020-07-12T04:06:34.403+02:00,1,13,2020-07-12,04:06:34,41.241913,-73.2428,NY,16440,41700,16040,76 08,79 PLACE,"","","","","","","","",""
-2020-07-12T04:06:34.582+02:00,4,43,2020-07-12,04:06:34,43.497475,-75.95256,NY,10610,34850,34870,856,7th Ave,"","","","","","","","",""
-2020-07-12T04:06:34.928+02:00,4,44,2020-07-12,04:06:34,43.449623,-75.14106,NY,0,0,0,N,46th Ave,0,929aa209-6ed3-4763-be98-3db9d81fd094,GWV6091,PAS,SUBN,BMW,BK,72,null
-2020-07-12T04:06:35.072+02:00,1,16,2020-07-12,04:06:35,41.93153,-73.355576,NY,37702,11010,13610,500,W 213TH STREET,"","","","","","","","",""

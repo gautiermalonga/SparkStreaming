@@ -1,5 +1,0 @@
-timestamp,IdRegion,IdDrone,CurrentDate,CurrentTime,x,y,RegionState,StreetCode1,StreetCode2,StreetCode3,HouseNumber,StreetName,Violation,IdPhoto,Plaque,PlateType,VehicleBodyType,VehicleMake,VehicleColor,ViolationCode,ViolationDescription
-2020-07-12T04:03:55.405+02:00,1,16,2020-07-12,04:03:55,41.949203,-73.76699,NY,6380,10480,10530,7803,13th Ave,0,f4b244bb-2b99-4fd4-9ece-399d591c37b9,GGB3797,PAS,4DSD,HYUND,WH,55,55-Tunnel/Elevated Roadway
-2020-07-12T04:03:55.593+02:00,5,51,2020-07-12,04:03:55,41.40946,-77.482414,NY,42820,29430,27870,3394,Jerome Ave,"","","","","","","","",""
-2020-07-12T04:03:55.742+02:00,6,66,2020-07-12,04:03:55,43.260796,-77.99374,NY,0,0,0,41-43,Benham St,"","","","","","","","",""
-2020-07-12T04:03:55.886+02:00,4,43,2020-07-12,04:03:55,43.493057,-75.23407,NY,10910,34790,34810,772,9th Ave,"","","","","","","","",""

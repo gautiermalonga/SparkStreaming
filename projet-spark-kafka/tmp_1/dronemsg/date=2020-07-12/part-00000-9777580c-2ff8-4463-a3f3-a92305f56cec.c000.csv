@@ -1,6 +1,0 @@
-timestamp,IdRegion,IdDrone,CurrentDate,CurrentTime,x,y,RegionState,StreetCode1,StreetCode2,StreetCode3,HouseNumber,StreetName,Violation,IdPhoto,Plaque,PlateType,VehicleBodyType,VehicleMake,VehicleColor,ViolationCode,ViolationDescription
-2020-07-12T04:06:47.893+02:00,2,25,2020-07-12,04:06:47,43.991196,-73.89059,NY,10210,17610,17630,456,3 AV,"","","","","","","","",""
-2020-07-12T04:06:48.010+02:00,3,33,2020-07-12,04:06:48,41.99503,-75.83221,NY,24970,17790,18040,88-19,178th St,"","","","","","","","",""
-2020-07-12T04:06:48.117+02:00,3,37,2020-07-12,04:06:48,41.2923,-75.74053,NY,24890,18970,18990,1569,Lexington Ave,"","","","","","","","",""
-2020-07-12T04:06:48.282+02:00,2,27,2020-07-12,04:06:48,43.319824,-73.96076,NY,0,0,0,S,Clinton Ave,"","","","","","","","",""
-2020-07-12T04:06:48.625+02:00,1,16,2020-07-12,04:06:48,41.362175,-73.66265,NY,5580,9230,9280,5314,5th Ave,0,79e97774-08f1-49c2-9c4a-1dbf548ebad4,T525679C,OMT,4DSD,TOYOT,TN,23,23-No Parking (taxi stand)

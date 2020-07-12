@@ -1,5 +1,0 @@
-timestamp,IdRegion,IdDrone,CurrentDate,CurrentTime,x,y,RegionState,StreetCode1,StreetCode2,StreetCode3,HouseNumber,StreetName,Violation,IdPhoto,Plaque,PlateType,VehicleBodyType,VehicleMake,VehicleColor,ViolationCode,ViolationDescription
-2020-07-12T04:06:42.070+02:00,5,51,2020-07-12,04:06:42,41.66714,-77.78755,NY,10210,18570,18590,1394,3rd Ave,"","","","","","","","",""
-2020-07-12T04:06:42.190+02:00,7,72,2020-07-12,04:06:42,41.85579,-79.023674,NY,12110,17170,17190,157,Avenue A,"","","","","","","","",""
-2020-07-12T04:06:42.500+02:00,1,13,2020-07-12,04:06:42,41.972,-73.36219,NY,27330,73120,11420,496,E 189th St,0,58817371-091d-4096-bd24-a61bf093aced,HKM4824,PAS,4DSD,NISSA,GY,82,82-Unaltered Commerc Vehicle
-2020-07-12T04:06:42.673+02:00,4,47,2020-07-12,04:06:42,43.991524,-75.49599,NY,0,0,0,35-53,95th St,"","","","","","","","",""

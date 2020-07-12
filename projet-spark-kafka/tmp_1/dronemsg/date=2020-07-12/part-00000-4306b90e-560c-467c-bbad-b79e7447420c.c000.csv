@@ -1,6 +1,0 @@
-timestamp,IdRegion,IdDrone,CurrentDate,CurrentTime,x,y,RegionState,StreetCode1,StreetCode2,StreetCode3,HouseNumber,StreetName,Violation,IdPhoto,Plaque,PlateType,VehicleBodyType,VehicleMake,VehicleColor,ViolationCode,ViolationDescription
-2020-07-12T04:05:33.330+02:00,4,46,2020-07-12,04:05:33,43.495377,-75.55741,NY,0,0,0,3250,Coney Island Ave,"","","","","","","","",""
-2020-07-12T04:05:33.473+02:00,6,66,2020-07-12,04:05:33,43.16953,-77.20507,NY,19690,23800,23850,15826,103rd St,"","","","","","","","",""
-2020-07-12T04:05:33.586+02:00,3,33,2020-07-12,04:05:33,41.2923,-75.74053,NY,24890,18970,18990,1569,Lexington Ave,"","","","","","","","",""
-2020-07-12T04:05:33.719+02:00,1,13,2020-07-12,04:05:33,41.58413,-73.080574,NY,0,0,0,null,NB SOUTHERN BLVD @ E,"","","","","","","","",""
-2020-07-12T04:05:33.856+02:00,3,32,2020-07-12,04:05:33,41.363644,-75.76794,NY,67530,14330,14380,1996,OCEAN AVE,"","","","","","","","",""

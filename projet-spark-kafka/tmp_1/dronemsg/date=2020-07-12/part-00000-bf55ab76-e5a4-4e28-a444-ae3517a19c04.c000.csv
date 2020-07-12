@@ -1,4 +1,0 @@
-timestamp,IdRegion,IdDrone,CurrentDate,CurrentTime,x,y,RegionState,StreetCode1,StreetCode2,StreetCode3,HouseNumber,StreetName,Violation,IdPhoto,Plaque,PlateType,VehicleBodyType,VehicleMake,VehicleColor,ViolationCode,ViolationDescription
-2020-07-12T04:07:22.952+02:00,3,33,2020-07-12,04:07:22,41.469135,-75.31392,NY,72630,5630,5730,106,Prospect Park West,0,beca76d8-8f7c-4ff9-befb-ee844bcc7c35,24083MG,COM,REFG,UD,WH,40,null
-2020-07-12T04:07:23.074+02:00,5,51,2020-07-12,04:07:23,41.44167,-77.97423,NY,37070,13610,21190,626,W 165th St,"","","","","","","","",""
-2020-07-12T04:07:23.222+02:00,7,77,2020-07-12,04:07:23,41.114594,-79.67785,NY,0,0,0,65-21,Main St,"","","","","","","","",""

@@ -1,2 +1,0 @@
-timestamp,IdRegion,IdDrone,CurrentDate,CurrentTime,x,y,RegionState,StreetCode1,StreetCode2,StreetCode3,HouseNumber,StreetName,Violation,IdPhoto,Plaque,PlateType,VehicleBodyType,VehicleMake,VehicleColor,ViolationCode,ViolationDescription
-2020-07-12T04:06:12.414+02:00,1,16,2020-07-12,04:06:12,41.312283,-73.25305,NY,6780,10080,10180,7113,17th Ave,0,7eb66b85-cf4d-470f-80f1-50bf39f443ef,GEA6817,PAS,4DSD,VOLKS,RD,48,48-Bike Lane

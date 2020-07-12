@@ -1,5 +1,0 @@
-timestamp,IdRegion,IdDrone,CurrentDate,CurrentTime,x,y,RegionState,StreetCode1,StreetCode2,StreetCode3,HouseNumber,StreetName,Violation,IdPhoto,Plaque,PlateType,VehicleBodyType,VehicleMake,VehicleColor,ViolationCode,ViolationDescription
-2020-07-12T04:07:24.540+02:00,5,56,2020-07-12,04:07:24,41.38004,-77.834076,NY,9980,6780,6880,1789,68th St,"","","","","","","","",""
-2020-07-12T04:07:24.691+02:00,1,16,2020-07-12,04:07:24,41.312283,-73.25305,NY,6780,10080,10180,7113,17th Ave,"","","","","","","","",""
-2020-07-12T04:07:24.806+02:00,1,12,2020-07-12,04:07:24,41.572495,-73.40428,NY,11420,26940,29620,1869,BATHGATE AVE,"","","","","","","","",""
-2020-07-12T04:07:25.223+02:00,5,53,2020-07-12,04:07:24,41.69147,-77.46984,NY,8990,19740,20190,104-41,38th Ave,0,4f485b9e-7313-447d-b15a-8f5a67dc5ffc,GJC4047,PAS,4DSD,TOYOT,BK,48,48-Bike Lane

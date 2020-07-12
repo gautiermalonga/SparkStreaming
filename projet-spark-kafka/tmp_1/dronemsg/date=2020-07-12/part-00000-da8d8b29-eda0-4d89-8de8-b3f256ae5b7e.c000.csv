@@ -1,5 +1,0 @@
-timestamp,IdRegion,IdDrone,CurrentDate,CurrentTime,x,y,RegionState,StreetCode1,StreetCode2,StreetCode3,HouseNumber,StreetName,Violation,IdPhoto,Plaque,PlateType,VehicleBodyType,VehicleMake,VehicleColor,ViolationCode,ViolationDescription
-2020-07-12T04:07:13.949+02:00,4,42,2020-07-12,04:07:13,43.363434,-75.724396,NY,0,40404,40404,2125,Frederick Douglass B,"","","","","","","","",""
-2020-07-12T04:07:14.081+02:00,7,72,2020-07-12,04:07:14,41.576843,-79.79493,NY,17670,0,0,N,E 34th St,"","","","","","","","",""
-2020-07-12T04:07:14.221+02:00,7,76,2020-07-12,04:07:14,41.17554,-79.074356,NY,14980,75130,50830,511,Bainbridge St,"","","","","","","","",""
-2020-07-12T04:07:14.435+02:00,3,35,2020-07-12,04:07:14,41.43547,-75.77323,NY,30490,30590,11810,31,Sherman Ave,"","","","","","","","",""

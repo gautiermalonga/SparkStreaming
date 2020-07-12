@@ -1,4 +1,0 @@
-timestamp,IdRegion,IdDrone,CurrentDate,CurrentTime,x,y,RegionState,StreetCode1,StreetCode2,StreetCode3,HouseNumber,StreetName,Violation,IdPhoto,Plaque,PlateType,VehicleBodyType,VehicleMake,VehicleColor,ViolationCode,ViolationDescription
-2020-07-12T04:05:59.497+02:00,7,73,2020-07-12,04:05:59,41.175938,-79.19657,NY,33730,5430,5580,361,Douglass St,"","","","","","","","",""
-2020-07-12T04:05:59.640+02:00,7,72,2020-07-12,04:05:59,41.114594,-79.67785,NY,0,0,0,65-21,Main St,"","","","","","","","",""
-2020-07-12T04:06:00.015+02:00,5,53,2020-07-12,04:05:59,41.974518,-77.826645,NY,12110,17130,31090,121,Avenue A,0,ace92ee6-5ac1-44a2-98f3-3bb4fbcaa0c0,HBN2742,PAS,4DSD,PONTI,GY,48,48-Bike Lane

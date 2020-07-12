@@ -1,5 +1,0 @@
-timestamp,IdRegion,IdDrone,CurrentDate,CurrentTime,x,y,RegionState,StreetCode1,StreetCode2,StreetCode3,HouseNumber,StreetName,Violation,IdPhoto,Plaque,PlateType,VehicleBodyType,VehicleMake,VehicleColor,ViolationCode,ViolationDescription
-2020-07-12T04:06:55.586+02:00,7,73,2020-07-12,04:06:55,41.558594,-79.85987,NY,49120,27090,27120,2164,Mapes Ave,"","","","","","","","",""
-2020-07-12T04:06:55.723+02:00,1,11,2020-07-12,04:06:55,41.972,-73.36219,NY,27330,73120,11420,496,E 189th St,"","","","","","","","",""
-2020-07-12T04:06:55.852+02:00,3,37,2020-07-12,04:06:55,41.83278,-75.59003,NY,10140,6740,7040,21-25,45th Ave,"","","","","","","","",""
-2020-07-12T04:06:56.187+02:00,7,74,2020-07-12,04:06:55,41.114594,-79.67785,NY,0,0,0,65-21,Main St,0,9900c95c-8d2e-4062-833c-9873f9221e02,EDS9843,PAS,4DSD,BMW,GY,38,38-Failure to Display Muni Rec

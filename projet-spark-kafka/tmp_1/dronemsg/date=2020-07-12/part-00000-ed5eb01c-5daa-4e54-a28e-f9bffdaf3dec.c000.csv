@@ -1,5 +1,0 @@
-timestamp,IdRegion,IdDrone,CurrentDate,CurrentTime,x,y,RegionState,StreetCode1,StreetCode2,StreetCode3,HouseNumber,StreetName,Violation,IdPhoto,Plaque,PlateType,VehicleBodyType,VehicleMake,VehicleColor,ViolationCode,ViolationDescription
-2020-07-12T04:07:05.229+02:00,3,35,2020-07-12,04:07:05,41.57692,-75.6352,NY,18230,10010,45590,440,E 62ND ST,"","","","","","","","",""
-2020-07-12T04:07:05.359+02:00,1,17,2020-07-12,04:07:05,41.04705,-73.8073,NY,10110,31090,17170,136,2nd Ave,"","","","","","","","",""
-2020-07-12T04:07:05.496+02:00,7,76,2020-07-12,04:07:05,41.114594,-79.67785,NY,0,0,0,65-21,Main St,"","","","","","","","",""
-2020-07-12T04:07:05.636+02:00,5,56,2020-07-12,04:07:05,41.39,-77.83611,NY,61090,18090,38390,89-14,Roosevelt Ave,"","","","","","","","",""

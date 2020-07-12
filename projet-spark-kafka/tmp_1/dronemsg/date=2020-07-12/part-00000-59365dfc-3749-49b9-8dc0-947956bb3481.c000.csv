@@ -1,3 +1,0 @@
-timestamp,IdRegion,IdDrone,CurrentDate,CurrentTime,x,y,RegionState,StreetCode1,StreetCode2,StreetCode3,HouseNumber,StreetName,Violation,IdPhoto,Plaque,PlateType,VehicleBodyType,VehicleMake,VehicleColor,ViolationCode,ViolationDescription
-2020-07-12T04:03:54.875+02:00,1,17,2020-07-12,04:03:54,41.951427,-73.72924,NY,38950,0,0,E,Elm Pl,0,89e52c57-cee1-4840-8bb4-3b1f70039a5f,30412BB,OMR,BUS,INTER,BL,71,71-Insp. Sticker Missing (NYS
-2020-07-12T04:03:55.041+02:00,4,42,2020-07-12,04:03:55,43.991524,-75.49599,NY,0,0,0,35-53,95th St,"","","","","","","","",""

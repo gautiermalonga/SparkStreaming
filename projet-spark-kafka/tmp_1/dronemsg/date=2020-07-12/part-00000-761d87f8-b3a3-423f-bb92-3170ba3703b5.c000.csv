@@ -1,4 +1,0 @@
-timestamp,IdRegion,IdDrone,CurrentDate,CurrentTime,x,y,RegionState,StreetCode1,StreetCode2,StreetCode3,HouseNumber,StreetName,Violation,IdPhoto,Plaque,PlateType,VehicleBodyType,VehicleMake,VehicleColor,ViolationCode,ViolationDescription
-2020-07-12T04:06:38.720+02:00,7,71,2020-07-12,04:06:38,41.407223,-79.792175,NY,81430,73110,50930,1757,STERLING PL,"","","","","","","","",""
-2020-07-12T04:06:38.855+02:00,7,77,2020-07-12,04:06:38,41.650707,-79.39262,NY,42920,0,0,E,Jesup Ave,"","","","","","","","",""
-2020-07-12T04:06:39.233+02:00,2,24,2020-07-12,04:06:38,43.429996,-73.28344,NY,10210,19350,19370,2212,3rd Ave,0,46f12786-f8a4-400e-9b1b-d96b84e875d7,76439JY,COM,VAN,DODGE,WHITE,46,46A-Double Parking (Non-COM)

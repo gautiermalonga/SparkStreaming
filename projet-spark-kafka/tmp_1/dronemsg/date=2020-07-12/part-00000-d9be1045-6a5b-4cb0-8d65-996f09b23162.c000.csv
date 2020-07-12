@@ -1,4 +1,0 @@
-timestamp,IdRegion,IdDrone,CurrentDate,CurrentTime,x,y,RegionState,StreetCode1,StreetCode2,StreetCode3,HouseNumber,StreetName,Violation,IdPhoto,Plaque,PlateType,VehicleBodyType,VehicleMake,VehicleColor,ViolationCode,ViolationDescription
-2020-07-12T04:05:56.434+02:00,3,36,2020-07-12,04:05:56,41.43547,-75.77323,NY,30490,30590,11810,31,Sherman Ave,"","","","","","","","",""
-2020-07-12T04:05:56.628+02:00,7,73,2020-07-12,04:05:56,41.71873,-79.67757,NY,81830,20670,32600,3029,STILLWELL AVE,"","","","","","","","",""
-2020-07-12T04:05:57.011+02:00,5,52,2020-07-12,04:05:56,41.345577,-77.307526,NY,37070,13610,21190,602,W 165 ST,0,303e4bd2-6a61-41e6-88d5-5e9a505a337e,GAR2544,PAS,4DSD,VOLKS,BK,23,23-No Parking (taxi stand)

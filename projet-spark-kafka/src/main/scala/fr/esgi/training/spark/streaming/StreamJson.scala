@@ -1,32 +1,16 @@
 package fr.esgi.training.spark.streaming
 
-import fr.esgi.training.spark.utils.SparkUtils
-import org.apache.spark.sql.SparkSession
-import org.apache.spark.sql.functions.{col, split}
-import org.apache.spark.sql.types.DataTypes
-import java.time.LocalDateTime
+
 
 import org.apache.spark.sql.types._
-import org.apache.spark.sql.functions._
-import org.apache.spark.sql.functions.window
-import org.apache.spark.sql
+
 import fr.esgi.training.spark.utils.SparkUtils
-import org.apache.spark.sql.{Encoders, SparkSession}
-import org.apache.spark.sql.functions._
-import org.apache.spark.sql.types.DataTypes
+
 import org.apache.spark.sql.functions.{col, split}
-import org.apache.spark.sql.types.DataTypes
-import java.time.LocalDateTime
 
-import org.apache.spark.sql.functions.window
-import org.apache.spark.sql
-import org.apache.spark.sql.functions._
-
-import scala.io.StdIn
-import java.sql.Timestamp
 
 import org.apache.spark.sql.functions.from_json
-import org.apache.spark.sql.SparkSession
+
 import org.apache.spark.sql.streaming.Trigger
 import org.apache.spark.sql.types.{IntegerType, StringType, StructField, StructType}
 
@@ -95,8 +79,8 @@ object StreamJson {
     .option("format", "append")
     .format("csv")
     .option("header", true)
-    .option("checkpointLocation", "tmpJson_2/sparkcheckpoints")
-    .option("path", "tmpJson/Historiquemsg/")
+    .option("checkpointLocation", "data/Json/sparkcheckpoints")
+    .option("path", "data/Json/Historiquemsg/")
     .outputMode("append")
     .trigger(Trigger.ProcessingTime(1,TimeUnit.MINUTES))
     .start()

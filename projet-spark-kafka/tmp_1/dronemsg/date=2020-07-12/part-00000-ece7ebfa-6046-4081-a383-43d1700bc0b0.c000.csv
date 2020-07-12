@@ -1,4 +1,0 @@
-timestamp,IdRegion,IdDrone,CurrentDate,CurrentTime,x,y,RegionState,StreetCode1,StreetCode2,StreetCode3,HouseNumber,StreetName,Violation,IdPhoto,Plaque,PlateType,VehicleBodyType,VehicleMake,VehicleColor,ViolationCode,ViolationDescription
-2020-07-12T04:06:27.766+02:00,1,11,2020-07-12,04:06:27,41.17809,-73.80342,NY,17250,10010,12110,446,E 13th St,0,7d87a0aa-3aad-47ae-a43e-2efc2ba7c450,FSV1177,PAS,SUBN,HYUND,RD,18,18-No Stand (bus lane)
-2020-07-12T04:06:28.040+02:00,2,23,2020-07-12,04:06:28,43.65738,-73.11996,NY,5580,68730,10180,7112,5th Ave,"","","","","","","","",""
-2020-07-12T04:06:28.216+02:00,3,32,2020-07-12,04:06:28,41.462788,-75.58729,NY,34250,10910,11010,460,W 24th St,"","","","","","","","",""

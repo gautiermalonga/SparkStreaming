@@ -1,5 +1,0 @@
-timestamp,IdRegion,IdDrone,CurrentDate,CurrentTime,x,y,RegionState,StreetCode1,StreetCode2,StreetCode3,HouseNumber,StreetName,Violation,IdPhoto,Plaque,PlateType,VehicleBodyType,VehicleMake,VehicleColor,ViolationCode,ViolationDescription
-2020-07-12T04:06:53.913+02:00,7,74,2020-07-12,04:06:53,41.402393,-79.11358,NY,30490,11310,37630,149,Sherman Ave,0,ff726d94-d1e6-41dd-8d87-b1f6802e1885,AEK7584,PAS,SUBN,NISSA,BL,72,null
-2020-07-12T04:06:54.057+02:00,3,33,2020-07-12,04:06:54,41.124928,-75.12195,NY,44990,35710,35730,771,West End Ave,"","","","","","","","",""
-2020-07-12T04:06:54.204+02:00,7,76,2020-07-12,04:06:54,41.461525,-79.76438,NY,59430,7530,74430,1603,McDonald Ave,"","","","","","","","",""
-2020-07-12T04:06:54.359+02:00,2,22,2020-07-12,04:06:54,43.45683,-73.63029,NY,0,0,0,null,N/E E 174 ST,"","","","","","","","",""

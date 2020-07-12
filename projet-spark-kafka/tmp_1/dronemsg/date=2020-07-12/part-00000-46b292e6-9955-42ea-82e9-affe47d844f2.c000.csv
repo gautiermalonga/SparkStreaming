@@ -1,6 +1,0 @@
-timestamp,IdRegion,IdDrone,CurrentDate,CurrentTime,x,y,RegionState,StreetCode1,StreetCode2,StreetCode3,HouseNumber,StreetName,Violation,IdPhoto,Plaque,PlateType,VehicleBodyType,VehicleMake,VehicleColor,ViolationCode,ViolationDescription
-2020-07-12T04:07:01.600+02:00,5,56,2020-07-12,04:07:01,41.033703,-77.0973,NY,53790,23700,23790,156-01,Liberty Ave,0,c6862510-ecb2-4cf3-9436-d31ec60bd210,T653264C,OMT,4DSD,LINCO,BK,25,25-No Stand (commutr van stop)
-2020-07-12T04:07:01.722+02:00,6,62,2020-07-12,04:07:01,43.09646,-77.23756,NY,10010,19290,19310,2285,1st Ave,"","","","","","","","",""
-2020-07-12T04:07:01.868+02:00,7,72,2020-07-12,04:07:01,41.85579,-79.023674,NY,12110,17170,17190,157,Avenue A,"","","","","","","","",""
-2020-07-12T04:07:02.022+02:00,2,23,2020-07-12,04:07:02,43.773342,-73.02493,NY,5880,9330,9380,5518,8th Ave,"","","","","","","","",""
-2020-07-12T04:07:02.171+02:00,1,15,2020-07-12,04:07:02,41.885094,-73.89074,NY,23930,87630,29230,421,Bushwick Ave,"","","","","","","","",""

@@ -1,5 +1,0 @@
-timestamp,IdRegion,IdDrone,CurrentDate,CurrentTime,x,y,RegionState,StreetCode1,StreetCode2,StreetCode3,HouseNumber,StreetName,Violation,IdPhoto,Plaque,PlateType,VehicleBodyType,VehicleMake,VehicleColor,ViolationCode,ViolationDescription
-2020-07-12T04:06:14.600+02:00,3,35,2020-07-12,04:06:14,41.2923,-75.74053,NY,24890,18970,18990,1569,Lexington Ave,"","","","","","","","",""
-2020-07-12T04:06:14.725+02:00,4,42,2020-07-12,04:06:14,43.363434,-75.724396,NY,0,40404,40404,2125,Frederick Douglass B,"","","","","","","","",""
-2020-07-12T04:06:15.086+02:00,4,47,2020-07-12,04:06:14,43.57823,-75.90359,NY,29220,40404,40404,2486,E Fordham Rd,0,76b1cba9-9c92-457e-8119-6449a1cb730a,GVU7533,PAS,SUBN,NISSA,BK,30,30-No stopping/standing
-2020-07-12T04:06:15.276+02:00,1,13,2020-07-12,04:06:15,41.974873,-73.53333,NY,0,0,0,172,8th Ave,"","","","","","","","",""

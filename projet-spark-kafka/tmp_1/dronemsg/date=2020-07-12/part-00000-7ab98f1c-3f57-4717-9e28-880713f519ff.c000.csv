@@ -1,5 +1,0 @@
-timestamp,IdRegion,IdDrone,CurrentDate,CurrentTime,x,y,RegionState,StreetCode1,StreetCode2,StreetCode3,HouseNumber,StreetName,Violation,IdPhoto,Plaque,PlateType,VehicleBodyType,VehicleMake,VehicleColor,ViolationCode,ViolationDescription
-2020-07-12T04:07:10.555+02:00,7,77,2020-07-12,04:07:10,41.070866,-79.47578,NY,24890,17890,17910,459,Lexington Ave,"","","","","","","","",""
-2020-07-12T04:07:10.677+02:00,2,21,2020-07-12,04:07:10,43.319824,-73.96076,NY,0,0,0,S,Clinton Ave,"","","","","","","","",""
-2020-07-12T04:07:10.824+02:00,2,26,2020-07-12,04:07:10,43.773342,-73.02493,NY,5880,9330,9380,5518,8th Ave,"","","","","","","","",""
-2020-07-12T04:07:11.253+02:00,3,35,2020-07-12,04:07:10,41.401802,-75.29458,NY,10510,26040,33990,458,6th Ave,0,9669e9ec-9712-4b42-9f80-4f082eadf986,GKZ5220,PAS,SUBN,HONDA,GY,30,30-No stopping/standing

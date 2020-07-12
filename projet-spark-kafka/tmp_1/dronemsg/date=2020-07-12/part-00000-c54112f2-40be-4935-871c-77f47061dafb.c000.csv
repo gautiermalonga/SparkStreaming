@@ -1,5 +1,0 @@
-timestamp,IdRegion,IdDrone,CurrentDate,CurrentTime,x,y,RegionState,StreetCode1,StreetCode2,StreetCode3,HouseNumber,StreetName,Violation,IdPhoto,Plaque,PlateType,VehicleBodyType,VehicleMake,VehicleColor,ViolationCode,ViolationDescription
-2020-07-12T04:07:15.649+02:00,6,66,2020-07-12,04:07:15,43.532043,-77.18233,NY,51090,24840,24890,175-09,Jamaica Ave,"","","","","","","","",""
-2020-07-12T04:07:15.957+02:00,2,27,2020-07-12,04:07:15,43.764164,-73.41271,NY,52930,93250,42730,387,Jay St,0,6cd19bc0-d641-42b7-9c8a-ad3b673838df,HLC8865,PAS,SUBN,TOYOT,BL,24,null
-2020-07-12T04:07:16.135+02:00,7,72,2020-07-12,04:07:16,41.070866,-79.47578,NY,24890,17890,17910,459,Lexington Ave,"","","","","","","","",""
-2020-07-12T04:07:16.288+02:00,4,47,2020-07-12,04:07:16,43.045353,-75.92089,NY,40890,23690,23750,156-40,Cross Bay Blvd,"","","","","","","","",""

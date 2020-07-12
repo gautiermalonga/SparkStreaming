@@ -1,5 +1,0 @@
-timestamp,IdRegion,IdDrone,CurrentDate,CurrentTime,x,y,RegionState,StreetCode1,StreetCode2,StreetCode3,HouseNumber,StreetName,Violation,IdPhoto,Plaque,PlateType,VehicleBodyType,VehicleMake,VehicleColor,ViolationCode,ViolationDescription
-2020-07-12T04:05:31.167+02:00,1,11,2020-07-12,04:05:31,41.97764,-73.45839,NY,0,0,0,S,W 140th St,"","","","","","","","",""
-2020-07-12T04:05:31.310+02:00,4,45,2020-07-12,04:05:31,43.595905,-75.169876,NY,29040,47690,37390,581,AZTEC PL,"","","","","","","","",""
-2020-07-12T04:05:31.428+02:00,6,65,2020-07-12,04:05:31,43.39261,-77.89896,NY,44890,32580,45490,155,W Broadway,"","","","","","","","",""
-2020-07-12T04:05:31.825+02:00,6,67,2020-07-12,04:05:31,43.39261,-77.89896,NY,44890,32580,45490,155,W Broadway,0,5e0519d2-609d-41c3-b7a4-4668ab0bf5f5,HKE3082,PAS,SUBN,TOYOT,GY,49,49-Excavation (obstruct traff)

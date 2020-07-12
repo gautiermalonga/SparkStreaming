@@ -1,4 +1,0 @@
-timestamp,IdRegion,IdDrone,CurrentDate,CurrentTime,x,y,RegionState,StreetCode1,StreetCode2,StreetCode3,HouseNumber,StreetName,Violation,IdPhoto,Plaque,PlateType,VehicleBodyType,VehicleMake,VehicleColor,ViolationCode,ViolationDescription
-2020-07-12T04:05:26.808+02:00,5,55,2020-07-12,04:05:26,41.46314,-77.10834,NY,31190,37450,37470,1511,ST NICHOLAS AVE,0,359d509b-2826-42ab-8587-64fef93c6392,36SW44,MOT,MCY,NS/OT,BLACK,74,null
-2020-07-12T04:05:26.961+02:00,4,47,2020-07-12,04:05:26,43.991524,-75.49599,NY,0,0,0,35-53,95th St,"","","","","","","","",""
-2020-07-12T04:05:27.131+02:00,7,76,2020-07-12,04:05:27,41.114594,-79.67785,NY,0,0,0,65-21,Main St,"","","","","","","","",""

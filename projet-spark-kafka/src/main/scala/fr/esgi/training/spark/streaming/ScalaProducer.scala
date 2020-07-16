@@ -110,7 +110,8 @@ object ScalaProducer extends App {
     date_format(current_timestamp(),"yyyy MM dd").as("MM-dd-yyyy"),
     date_format(current_timestamp(),"HH:mm:ss").as("HH:mm:ss"))
 
-  while(true) {
+ // while(true)
+  for ( abcd <- 1 to 1000){
     val infraction = nextInt(100)
     val idRegion = nextInt(7)+1
     val idDrone = IdRobot(idRegion)
@@ -142,7 +143,8 @@ object ScalaProducer extends App {
     val HouseNumber = PositionRobot.getString(4)
     val StreetName = PositionRobot.getString(5)
 
-    if (IdInfraction(idRegion)) {
+    if(true){
+    //(IdInfraction(idRegion)) {
       val violation = nextInt(99) + 1
       val idPhoto = IdPhoto()
       if (violation == 100) {
@@ -171,12 +173,12 @@ object ScalaProducer extends App {
     }
     else {
       val record = new ProducerRecord(TOPIC, "key", s"$idRegion;$idDrone;$currentDate;$currentTime;$x;$y;$RegionState;$StreetCode1;$StreetCode2;$StreetCode3;" +
-        s" $HouseNumber;$StreetName;;;;;;;;;")
+        s" $HouseNumber;$StreetName;2;;;;;;;;")
       producer.send(record)
     }
   }
-  val record = new ProducerRecord(TOPIC, "key", "the end "+new java.util.Date)
-  producer.send(record)
+
+
 
   producer.close()
 

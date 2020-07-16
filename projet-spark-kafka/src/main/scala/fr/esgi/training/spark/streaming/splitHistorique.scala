@@ -1,5 +1,8 @@
-package fr.esgi.training.spark
+package fr.esgi.training.spark.streaming
 
+
+
+import org.apache.spark.sql.types._
 import fr.esgi.training.spark.utils.SparkUtils
 import org.apache.spark.sql.functions.{col, udf}
 import org.apache.spark.sql.SparkSession
@@ -24,6 +27,8 @@ object splitHistorique {
       .option("header", "true")
       .option("delimiter", ";")
       .load("D:\\Document D\\COURS ESGI\\SPARK\\S2\\projet\\Historique.csv")
+
+
     /*
     import scala.util.Random
     val v = Random.nextInt(100)
